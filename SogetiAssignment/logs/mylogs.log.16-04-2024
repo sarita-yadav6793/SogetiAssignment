@@ -1,0 +1,210 @@
+2024-04-16  01:12:18-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  01:12:18-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  01:12:31-main[ mainid]  INFO  Pages.Homepage:64 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  01:12:38-main[ mainid]  INFO  Pages.Automation:73 - Automation page is displayed
+			2024-04-16  01:12:38-main[ mainid]  INFO  Pages.Automation:83 - Services link color is red, means it is selected
+			2024-04-16  01:12:38-main[ mainid]  INFO  Pages.Automation:89 - Automation link color is red, means it is selected
+			2024-04-16  01:12:38-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-16  01:12:38-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  01:12:38-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  01:12:38-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  01:12:50-main[ mainid]  INFO  Pages.Homepage:64 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  01:13:19-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-16  01:13:19-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  01:13:19-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  01:13:19-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  01:13:29-main[ mainid]  INFO  Pages.Homepage:64 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  01:13:33-main[ mainid]  INFO  Pages.Homepage:120 - No. of countries in list are:12
+			2024-04-16  01:13:33-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  BELGIUM-------
+			2024-04-16  01:13:39-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  BELGIUM link is successful-------
+			2024-04-16  01:13:39-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  FINLAND-------
+			2024-04-16  01:13:44-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  FINLAND link is successful-------
+			2024-04-16  01:13:44-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  FRANCE-------
+			2024-04-16  01:13:50-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  FRANCE link is successful-------
+			2024-04-16  01:13:50-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  GERMANY-------
+			2024-04-16  01:13:54-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  GERMANY link is successful-------
+			2024-04-16  01:13:54-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  IRELAND-------
+			2024-04-16  01:13:58-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  IRELAND link is successful-------
+			2024-04-16  01:13:59-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  LUXEMBOURG-------
+			2024-04-16  01:14:04-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  LUXEMBOURG link is successful-------
+			2024-04-16  01:14:04-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  NETHERLANDS-------
+			2024-04-16  01:14:10-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  NETHERLANDS link is successful-------
+			2024-04-16  01:14:10-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  NORWAY-------
+			2024-04-16  01:14:17-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  NORWAY link is successful-------
+			2024-04-16  01:14:17-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  SPAIN-------
+			2024-04-16  01:14:22-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  SPAIN link is successful-------
+			2024-04-16  01:14:22-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  SWEDEN-------
+			2024-04-16  01:14:27-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  SWEDEN link is successful-------
+			2024-04-16  01:14:27-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  UK-------
+			2024-04-16  01:14:32-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  UK link is successful-------
+			2024-04-16  01:14:32-main[ mainid]  INFO  Pages.Homepage:122 - -------Verifying link for Country  USA-------
+			2024-04-16  01:14:37-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  USA link is successful-------
+			2024-04-16  01:14:37-main[ mainid]  INFO  Pages.Homepage:135 - success
+			2024-04-16  01:14:37-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-16  01:14:37-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  01:20:27-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  01:20:27-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  01:20:40-main[ mainid]  INFO  Pages.Homepage:64 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  01:20:54-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-16  01:20:54-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  01:21:55-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  01:21:55-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  01:22:08-main[ mainid]  INFO  Pages.Homepage:64 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  01:22:47-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-16  01:22:47-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  01:38:12-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  01:38:12-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  01:38:25-main[ mainid]  INFO  Pages.Homepage:64 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  01:38:37-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-16  01:38:37-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  02:21:45-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  02:21:45-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  02:21:58-main[ mainid]  INFO  Pages.Homepage:58 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  02:22:05-main[ mainid]  INFO  Pages.Automation:76 - Automation page is displayed
+			2024-04-16  02:22:05-main[ mainid]  INFO  Pages.Automation:86 - Services link color is red, means it is selected
+			2024-04-16  02:22:05-main[ mainid]  INFO  Pages.Automation:92 - Automation link color is red, means it is selected
+			2024-04-16  02:22:05-main[ mainid]  INFO  Utils.Driver:32 - Utils.Driver------------Close Driver--------------
+			2024-04-16  02:22:06-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  02:22:06-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  02:22:06-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  02:22:17-main[ mainid]  INFO  Pages.Homepage:58 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  02:22:26-main[ mainid]  INFO  Utils.Driver:32 - Utils.Driver------------Close Driver--------------
+			2024-04-16  02:22:26-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  02:22:26-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  02:22:26-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  02:22:36-main[ mainid]  INFO  Pages.Homepage:58 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  02:22:39-main[ mainid]  INFO  Pages.Homepage:110 - No. of countries in list are:12
+			2024-04-16  02:22:39-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  BELGIUM-------
+			2024-04-16  02:22:44-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  BELGIUM link is successful-------
+			2024-04-16  02:22:44-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  FINLAND-------
+			2024-04-16  02:22:48-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  FINLAND link is successful-------
+			2024-04-16  02:22:48-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  FRANCE-------
+			2024-04-16  02:22:56-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  FRANCE link is successful-------
+			2024-04-16  02:22:56-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  GERMANY-------
+			2024-04-16  02:23:01-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  GERMANY link is successful-------
+			2024-04-16  02:23:01-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  IRELAND-------
+			2024-04-16  02:23:06-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  IRELAND link is successful-------
+			2024-04-16  02:23:06-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  LUXEMBOURG-------
+			2024-04-16  02:23:11-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  LUXEMBOURG link is successful-------
+			2024-04-16  02:23:11-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  NETHERLANDS-------
+			2024-04-16  02:23:17-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  NETHERLANDS link is successful-------
+			2024-04-16  02:23:17-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  NORWAY-------
+			2024-04-16  02:23:24-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  NORWAY link is successful-------
+			2024-04-16  02:23:24-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  SPAIN-------
+			2024-04-16  02:23:29-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  SPAIN link is successful-------
+			2024-04-16  02:23:29-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  SWEDEN-------
+			2024-04-16  02:23:35-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  SWEDEN link is successful-------
+			2024-04-16  02:23:35-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  UK-------
+			2024-04-16  02:23:40-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  UK link is successful-------
+			2024-04-16  02:23:40-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  USA-------
+			2024-04-16  02:23:45-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  USA link is successful-------
+			2024-04-16  02:23:45-main[ mainid]  INFO  Pages.Homepage:125 - success
+			2024-04-16  02:23:45-main[ mainid]  INFO  Utils.Driver:32 - Utils.Driver------------Close Driver--------------
+			2024-04-16  02:23:45-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  02:30:19-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  02:30:19-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  02:30:32-main[ mainid]  INFO  Pages.Homepage:58 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  02:30:38-main[ mainid]  INFO  Pages.Automation:76 - Automation page is displayed
+			2024-04-16  02:30:38-main[ mainid]  INFO  Pages.Automation:86 - Services link color is red, means it is selected
+			2024-04-16  02:30:38-main[ mainid]  INFO  Pages.Automation:92 - Automation link color is red, means it is selected
+			2024-04-16  02:30:38-main[ mainid]  INFO  Utils.Driver:32 - Utils.Driver------------Close Driver--------------
+			2024-04-16  02:30:38-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  02:30:38-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  02:30:38-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  02:30:48-main[ mainid]  INFO  Pages.Homepage:58 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  02:30:58-main[ mainid]  INFO  Utils.Driver:32 - Utils.Driver------------Close Driver--------------
+			2024-04-16  02:30:58-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  02:30:58-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  02:30:58-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  02:31:10-main[ mainid]  INFO  Pages.Homepage:58 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  02:31:14-main[ mainid]  INFO  Pages.Homepage:110 - No. of countries in list are:12
+			2024-04-16  02:31:14-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  BELGIUM-------
+			2024-04-16  02:31:19-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  BELGIUM link is successful-------
+			2024-04-16  02:31:19-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  FINLAND-------
+			2024-04-16  02:31:24-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  FINLAND link is successful-------
+			2024-04-16  02:31:24-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  FRANCE-------
+			2024-04-16  02:31:30-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  FRANCE link is successful-------
+			2024-04-16  02:31:30-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  GERMANY-------
+			2024-04-16  02:31:35-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  GERMANY link is successful-------
+			2024-04-16  02:31:35-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  IRELAND-------
+			2024-04-16  02:31:40-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  IRELAND link is successful-------
+			2024-04-16  02:31:40-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  LUXEMBOURG-------
+			2024-04-16  02:31:44-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  LUXEMBOURG link is successful-------
+			2024-04-16  02:31:44-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  NETHERLANDS-------
+			2024-04-16  02:31:51-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  NETHERLANDS link is successful-------
+			2024-04-16  02:31:51-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  NORWAY-------
+			2024-04-16  02:31:57-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  NORWAY link is successful-------
+			2024-04-16  02:31:57-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  SPAIN-------
+			2024-04-16  02:32:03-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  SPAIN link is successful-------
+			2024-04-16  02:32:03-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  SWEDEN-------
+			2024-04-16  02:32:11-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  SWEDEN link is successful-------
+			2024-04-16  02:32:11-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  UK-------
+			2024-04-16  02:32:16-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  UK link is successful-------
+			2024-04-16  02:32:16-main[ mainid]  INFO  Pages.Homepage:112 - -------Verifying link for Country  USA-------
+			2024-04-16  02:32:20-main[ mainid]  INFO  Pages.Homepage:116 - -------Verification for Country  USA link is successful-------
+			2024-04-16  02:32:20-main[ mainid]  INFO  Pages.Homepage:125 - success
+			2024-04-16  02:32:20-main[ mainid]  INFO  Utils.Driver:32 - Utils.Driver------------Close Driver--------------
+			2024-04-16  02:32:20-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  02:35:23-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  02:35:23-main[ mainid]  INFO  Utils.DriverFactory:17 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  02:35:37-main[ mainid]  INFO  Pages.Homepage:58 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  02:35:47-main[ mainid]  INFO  Utils.Driver:33 - Utils.Driver------------Close Driver--------------
+			2024-04-16  02:35:48-main[ mainid]  INFO  Utils.DriverFactory:45 - ---------------Driver Closed--------------
+			2024-04-16  21:37:50-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  21:37:50-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  21:38:06-main[ mainid]  INFO  Pages.Homepage:58 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  21:38:15-main[ mainid]  INFO  Utils.Driver:33 - Utils.Driver------------Close Driver--------------
+			2024-04-16  21:38:15-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  21:49:15-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  21:49:15-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  21:49:30-main[ mainid]  INFO  Pages.Homepage:59 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  21:49:40-main[ mainid]  INFO  Utils.Driver:33 - Utils.Driver------------Close Driver--------------
+			2024-04-16  21:49:40-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  21:50:23-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  21:50:23-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  21:50:35-main[ mainid]  INFO  Pages.Homepage:59 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  21:50:44-main[ mainid]  INFO  Utils.Driver:33 - Utils.Driver------------Close Driver--------------
+			2024-04-16  21:50:45-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  22:23:24-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  22:23:24-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  22:23:38-main[ mainid]  INFO  Pages.Homepage:59 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  22:23:44-main[ mainid]  INFO  Pages.Automation:76 - Automation page is displayed
+			2024-04-16  22:23:44-main[ mainid]  INFO  Utils.Driver:33 - Utils.Driver------------Close Driver--------------
+			2024-04-16  22:23:44-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  22:23:44-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  22:23:44-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  22:23:55-main[ mainid]  INFO  Pages.Homepage:59 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  22:24:04-main[ mainid]  INFO  Utils.Driver:33 - Utils.Driver------------Close Driver--------------
+			2024-04-16  22:24:04-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-16  22:24:04-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-16  22:24:04-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-16  22:24:15-main[ mainid]  INFO  Pages.Homepage:59 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-16  22:24:18-main[ mainid]  INFO  Pages.Homepage:108 - No. of countries in list are:12
+			2024-04-16  22:24:18-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  BELGIUM-------
+			2024-04-16  22:24:22-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  BELGIUM link is successful-------
+			2024-04-16  22:24:22-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  FINLAND-------
+			2024-04-16  22:24:27-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  FINLAND link is successful-------
+			2024-04-16  22:24:27-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  FRANCE-------
+			2024-04-16  22:24:34-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  FRANCE link is successful-------
+			2024-04-16  22:24:34-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  GERMANY-------
+			2024-04-16  22:24:38-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  GERMANY link is successful-------
+			2024-04-16  22:24:38-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  IRELAND-------
+			2024-04-16  22:24:43-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  IRELAND link is successful-------
+			2024-04-16  22:24:43-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  LUXEMBOURG-------
+			2024-04-16  22:24:47-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  LUXEMBOURG link is successful-------
+			2024-04-16  22:24:47-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  NETHERLANDS-------
+			2024-04-16  22:24:54-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  NETHERLANDS link is successful-------
+			2024-04-16  22:24:54-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  NORWAY-------
+			2024-04-16  22:24:59-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  NORWAY link is successful-------
+			2024-04-16  22:24:59-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  SPAIN-------
+			2024-04-16  22:25:03-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  SPAIN link is successful-------
+			2024-04-16  22:25:03-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  SWEDEN-------
+			2024-04-16  22:25:09-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  SWEDEN link is successful-------
+			2024-04-16  22:25:09-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  UK-------
+			2024-04-16  22:25:14-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  UK link is successful-------
+			2024-04-16  22:25:14-main[ mainid]  INFO  Pages.Homepage:110 - -------Verifying link for Country  USA-------
+			2024-04-16  22:25:18-main[ mainid]  INFO  Pages.Homepage:114 - -------Verification for Country  USA link is successful-------
+			2024-04-16  22:25:18-main[ mainid]  INFO  Pages.Homepage:123 - success
+			2024-04-16  22:25:18-main[ mainid]  INFO  Utils.Driver:33 - Utils.Driver------------Close Driver--------------
+			2024-04-16  22:25:18-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			

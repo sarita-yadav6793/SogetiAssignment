@@ -1,0 +1,209 @@
+2024-04-14  16:25:19-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  16:25:19-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  16:25:19-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  16:25:19-main[ mainid]  INFO  Utils.DriverFactory:38 - Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "driver" is null
+			2024-04-14  16:28:02-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  16:28:02-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  16:28:02-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  16:28:02-main[ mainid]  INFO  Utils.DriverFactory:38 - Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "driver" is null
+			2024-04-14  16:30:02-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  16:30:02-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  16:30:02-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  16:30:02-main[ mainid]  INFO  Utils.DriverFactory:38 - Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "driver" is null
+			2024-04-14  16:31:56-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  16:32:14-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  16:36:12-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  16:36:12-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  16:36:12-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  16:36:12-main[ mainid]  INFO  Utils.DriverFactory:38 - Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "driver" is null
+			2024-04-14  16:42:50-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  16:42:50-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  16:42:50-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  16:42:50-main[ mainid]  INFO  Utils.DriverFactory:38 - Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "driver" is null
+			2024-04-14  16:45:05-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  16:45:05-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  16:45:05-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  16:45:05-main[ mainid]  INFO  Utils.DriverFactory:38 - Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "driver" is null
+			2024-04-14  16:48:42-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  16:48:42-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  16:48:42-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  16:48:42-main[ mainid]  INFO  Utils.DriverFactory:38 - Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "driver" is null
+			2024-04-14  16:52:02-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  16:52:02-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  16:52:02-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  16:52:02-main[ mainid]  INFO  Utils.DriverFactory:38 - Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "driver" is null
+			2024-04-14  16:53:09-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  16:53:09-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  16:53:09-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  16:53:09-main[ mainid]  INFO  Utils.DriverFactory:38 - Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "driver" is null
+			2024-04-14  17:50:03-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  17:50:03-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  17:50:03-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  17:50:03-main[ mainid]  INFO  Utils.DriverFactory:38 - Cannot invoke "org.openqa.selenium.WebDriver.quit()" because "driver" is null
+			2024-04-14  17:57:25-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  17:57:56-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  18:01:39-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  18:01:39-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  18:02:17-main[ mainid]  INFO  Pages.Homepage:38 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  18:02:17-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  18:02:17-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  18:06:14-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  18:06:14-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  18:06:24-main[ mainid]  INFO  Pages.Homepage:38 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  18:06:24-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  18:06:24-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  18:07:18-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  18:07:18-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  18:07:30-main[ mainid]  INFO  Pages.Homepage:38 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  18:07:30-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  18:07:31-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  18:08:41-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  18:08:41-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  18:08:51-main[ mainid]  INFO  Pages.Homepage:38 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  18:08:51-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  18:08:51-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  18:23:43-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  18:23:43-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  18:23:55-main[ mainid]  INFO  Pages.Homepage:45 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  18:23:59-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  18:23:59-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  18:40:46-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  18:40:46-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  18:40:58-main[ mainid]  INFO  Pages.Homepage:45 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  18:41:01-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  18:41:01-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  18:44:13-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  18:44:13-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  18:44:24-main[ mainid]  INFO  Pages.Homepage:45 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  18:44:28-main[ mainid]  INFO  Pages.Homepage:55 - 1
+			2024-04-14  18:44:28-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  18:44:28-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  19:05:14-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  19:05:14-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  19:05:26-main[ mainid]  INFO  Pages.Homepage:45 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  19:05:30-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  19:05:30-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  19:07:31-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  19:07:31-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  19:07:44-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  19:07:48-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  19:07:48-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  19:10:20-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  19:10:20-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  19:10:34-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  19:10:37-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  19:10:37-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  19:19:08-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  19:19:08-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  19:19:22-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  19:22:27-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  19:22:27-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  19:22:39-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  19:22:45-main[ mainid]  INFO  Pages.Automation:32 - Automation page is displayed
+			2024-04-14  19:22:45-main[ mainid]  INFO  Pages.Automation:43 - Services link color is not red, means it is not selected
+			2024-04-14  19:22:45-main[ mainid]  INFO  Pages.Automation:49 - Automation link color is not red, means it is not selected
+			2024-04-14  19:22:45-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  19:22:45-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  19:24:04-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  19:24:04-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  19:24:16-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  19:24:22-main[ mainid]  INFO  Pages.Automation:32 - Automation page is displayed
+			2024-04-14  19:24:22-main[ mainid]  INFO  Pages.Automation:43 - Services link color is not red, means it is not selected
+			2024-04-14  19:24:22-main[ mainid]  INFO  Pages.Automation:49 - Automation link color is not red, means it is not selected
+			2024-04-14  19:24:22-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  19:24:22-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  19:24:33-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  19:24:33-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  19:24:44-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  19:24:51-main[ mainid]  INFO  Pages.Automation:32 - Automation page is displayed
+			2024-04-14  19:32:27-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  19:32:27-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  19:32:39-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  19:32:46-main[ mainid]  INFO  Pages.Automation:33 - Automation page is displayed
+			2024-04-14  19:32:46-main[ mainid]  INFO  Pages.Automation:43 - Services link color is red, means it is selected
+			2024-04-14  19:32:46-main[ mainid]  INFO  Pages.Automation:52 - Automation link color is not red, means it is not selected
+			2024-04-14  19:32:46-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  19:32:46-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  19:44:49-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  19:44:49-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  19:45:01-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  19:45:07-main[ mainid]  INFO  Pages.Automation:37 - Automation page is displayed
+			2024-04-14  19:45:07-main[ mainid]  INFO  Pages.Automation:53 - Services link color is red, means it is selected
+			2024-04-14  19:45:07-main[ mainid]  INFO  Pages.Automation:59 - Automation link color is red, means it is selected
+			2024-04-14  19:45:07-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  19:45:07-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  20:02:32-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  20:02:32-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  20:02:44-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  20:02:50-main[ mainid]  INFO  Pages.Automation:37 - Automation page is displayed
+			2024-04-14  20:02:50-main[ mainid]  INFO  Pages.Automation:53 - Services link color is red, means it is selected
+			2024-04-14  20:02:50-main[ mainid]  INFO  Pages.Automation:59 - Automation link color is red, means it is selected
+			2024-04-14  20:02:50-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  20:02:50-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  20:04:11-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  20:04:11-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  20:04:22-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  20:04:28-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  20:04:28-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  20:15:08-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  20:15:08-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  20:15:18-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  20:15:26-main[ mainid]  INFO  Pages.Automation:37 - Automation page is displayed
+			2024-04-14  20:15:26-main[ mainid]  INFO  Pages.Automation:53 - Services link color is red, means it is selected
+			2024-04-14  20:15:26-main[ mainid]  INFO  Pages.Automation:59 - Automation link color is red, means it is selected
+			2024-04-14  20:15:26-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  20:15:26-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  20:15:57-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  20:15:57-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  20:16:08-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  20:16:14-main[ mainid]  INFO  Pages.Automation:37 - Automation page is displayed
+			2024-04-14  20:16:14-main[ mainid]  INFO  Pages.Automation:53 - Services link color is red, means it is selected
+			2024-04-14  20:16:14-main[ mainid]  INFO  Pages.Automation:59 - Automation link color is red, means it is selected
+			2024-04-14  20:16:14-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  20:16:14-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  20:17:10-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  20:17:10-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  20:17:21-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  20:17:27-main[ mainid]  INFO  Pages.Automation:37 - Automation page is displayed
+			2024-04-14  21:58:34-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  21:58:34-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  21:58:47-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  21:58:54-main[ mainid]  INFO  Pages.Automation:51 - Automation page is displayed
+			2024-04-14  21:58:54-main[ mainid]  INFO  Pages.Automation:61 - Services link color is red, means it is selected
+			2024-04-14  21:58:54-main[ mainid]  INFO  Pages.Automation:67 - Automation link color is red, means it is selected
+			2024-04-14  21:58:54-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  21:58:54-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  21:58:54-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  21:58:54-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  21:59:04-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  21:59:10-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  21:59:10-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  22:02:17-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  22:02:17-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  22:02:29-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  22:02:35-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  22:02:36-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  22:16:28-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  22:16:28-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  22:16:41-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  22:16:51-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  22:16:51-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  22:18:11-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  22:18:11-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  22:18:22-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  22:18:30-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  22:18:30-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  22:18:41-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  22:18:41-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  22:18:52-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  22:27:16-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  22:27:16-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  22:27:28-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  22:27:36-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  22:27:36-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-14  23:58:53-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-14  23:58:53-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-14  23:59:05-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-14  23:59:14-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-14  23:59:14-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			

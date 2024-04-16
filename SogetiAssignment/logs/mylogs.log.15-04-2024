@@ -1,0 +1,100 @@
+2024-04-15  09:10:43-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:10:43-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:10:57-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:11:52-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  09:11:52-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  09:12:32-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:12:32-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:12:43-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:12:52-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  09:12:52-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  09:13:50-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:13:50-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:14:02-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:19:11-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:19:11-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:19:22-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:19:32-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  09:19:32-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  09:20:46-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:20:46-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:21:02-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:24:55-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:24:55-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:25:08-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:25:18-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  09:25:18-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  09:26:11-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:26:11-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:26:22-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:32:23-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:32:23-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:32:36-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:32:46-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  09:32:46-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  09:33:27-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:33:27-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:33:39-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:35:08-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:35:08-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:35:21-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:35:21-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:35:32-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:37:25-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  09:37:25-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  09:37:38-main[ mainid]  INFO  Pages.Homepage:46 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  09:38:22-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  09:38:22-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  10:26:50-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  10:26:50-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  10:27:02-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  10:27:02-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  10:41:54-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  10:41:54-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  10:42:08-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  10:42:08-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  10:44:47-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  10:44:47-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  10:45:01-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  10:45:02-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  10:47:44-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  10:47:44-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  10:47:56-main[ mainid]  INFO  Pages.Homepage:64 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  10:48:01-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  10:48:01-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  10:48:27-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  10:48:27-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  10:48:39-main[ mainid]  INFO  Pages.Homepage:64 - Sogeti logo is displayed, URL is navigating correctly.
+			2024-04-15  10:48:42-main[ mainid]  INFO  Pages.Homepage:120 - No. of countries in list are:12
+			2024-04-15  10:48:42-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  BELGIUM-------
+			2024-04-15  10:48:46-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  BELGIUM link is successful-------
+			2024-04-15  10:48:46-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  FINLAND-------
+			2024-04-15  10:48:51-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  FINLAND link is successful-------
+			2024-04-15  10:48:51-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  FRANCE-------
+			2024-04-15  10:48:59-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  FRANCE link is successful-------
+			2024-04-15  10:48:59-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  GERMANY-------
+			2024-04-15  10:49:03-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  GERMANY link is successful-------
+			2024-04-15  10:49:03-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  IRELAND-------
+			2024-04-15  10:49:08-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  IRELAND link is successful-------
+			2024-04-15  10:49:08-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  LUXEMBOURG-------
+			2024-04-15  10:49:12-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  LUXEMBOURG link is successful-------
+			2024-04-15  10:49:12-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  NETHERLANDS-------
+			2024-04-15  10:49:18-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  NETHERLANDS link is successful-------
+			2024-04-15  10:49:18-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  NORWAY-------
+			2024-04-15  10:49:24-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  NORWAY link is successful-------
+			2024-04-15  10:49:24-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  SPAIN-------
+			2024-04-15  10:49:29-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  SPAIN link is successful-------
+			2024-04-15  10:49:29-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  SWEDEN-------
+			2024-04-15  10:49:37-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  SWEDEN link is successful-------
+			2024-04-15  10:49:37-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  UK-------
+			2024-04-15  10:49:42-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  UK link is successful-------
+			2024-04-15  10:49:42-main[ mainid]  INFO  Pages.Homepage:122 - -------Verify link for Country  USA-------
+			2024-04-15  10:49:46-main[ mainid]  INFO  Pages.Homepage:126 - -------Verification for Country  USA link is successful-------
+			2024-04-15  10:49:46-main[ mainid]  INFO  Pages.Homepage:135 - success
+			2024-04-15  10:49:46-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  10:49:46-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			2024-04-15  12:43:51-main[ mainid]  INFO  Utils.Driver:16 - Utils.Driver--------------Initialise Driver--------------
+			2024-04-15  12:43:51-main[ mainid]  INFO  Utils.DriverFactory:16 - class java.lang.Class--------------Initialise Driver----------------
+			2024-04-15  12:44:05-main[ mainid]  INFO  Utils.Driver:34 - Utils.Driver------------Close Driver--------------
+			2024-04-15  12:44:05-main[ mainid]  INFO  Utils.DriverFactory:35 - ---------------Driver Closed--------------
+			

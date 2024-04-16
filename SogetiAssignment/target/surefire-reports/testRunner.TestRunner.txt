@@ -1,0 +1,27 @@
+-------------------------------------------------------------------------------
+Test set: testRunner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 85.875 s <<< FAILURE! - in testRunner.TestRunner
+TestCase2 - submit contact us form and verify successful message(Verify Sogeti UI Application)  Time elapsed: 20.52 s  <<< ERROR!
+org.openqa.selenium.ElementClickInterceptedException: 
+element click intercepted: Element <div class="recaptcha-checkbox-checkmark" role="presentation"></div> is not clickable at point (27, 38). Other element would receive the click: <div class="recaptcha-checkbox-border" role="presentation"></div>
+  (Session info: chrome=123.0.6312.124)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.5.1', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [97acf61efc8ffcee911db646264e576a, clickElement {id=f.A2CF327AFAC289D01F98298CE64E44B8.d.B2AC56A38CF283CAC2DAEE0D93D02801.e.4}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: /var/folders/9x/wjf2m7wn49x...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51627}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51627/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (97acf61efc8ffcee911db646264e576a)] -> css selector: div.recaptcha-checkbox-checkmark]
+Session ID: 97acf61efc8ffcee911db646264e576a
+
+TestCase3 - Verify all country links under Worldwide are working(Verify Sogeti UI Application)  Time elapsed: 35.252 s  <<< ERROR!
+org.openqa.selenium.WebDriverException: 
+no such execution context
+  (Session info: chrome=123.0.6312.124)
+Build info: version: '4.19.1', revision: 'abe0ee07dc'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.5.1', java.version: '17.0.10'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9c189704c1f507e790ff57cf8dda70f6, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.124, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: /var/folders/9x/wjf2m7wn49x...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51754}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51754/devtoo..., se:cdpVersion: 123.0.6312.124, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9c189704c1f507e790ff57cf8dda70f6
+
